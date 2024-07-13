@@ -1,5 +1,6 @@
 <form action="action_page.php">
   <div class="container">
+     <h1>Smart app login </h1>
     <h1>New user Register for DevOps Learning Project</h1>
     <p>Please fill in this form to create an account for user Profile.</p>
     <hr>
